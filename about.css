@@ -1,0 +1,60 @@
+
+        ol{
+          list-style-type:none;
+          margin:0;
+          padding:2px;
+          background-color:blue;
+          overflow:hidden;
+        }
+        li{
+          float:left;
+        }
+        li a{
+          text-decoration: none;
+          padding:16px;
+          display:block;
+          color:white;
+          text-align:center;
+
+        }
+        li a:hover{
+          background-color:navy;
+        }
+        .round{
+          width:300px;
+          border-radius: 20px;
+          border: 1px solid black;
+          padding:10px 10px 10px 10px;
+        }
+        .search{
+          position:absolute;
+          top:15px;
+          right:40px;
+          width:300px;
+        }
+        .about{
+            
+            padding:19px;
+            text-align:center;
+            background-color: black;
+            color:white;
+        }
+     
+.p1{
+    display: inline-block;
+    padding: 7px;
+    position: relative;
+    height: 76px;
+    bottom: -50px;
+
+
+}
+.bimg{
+    color:blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:larger;
+    position: relative;
+    left: 215px;
+    top: -76px;
+    font-size:50px;
+}
